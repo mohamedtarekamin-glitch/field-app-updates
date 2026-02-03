@@ -1,5 +1,6 @@
 {
-  "version": "1.0.6",
-  "apk_url": "",
-  "mandatory": false
+ "version": "1.0.7",
+  "build": 3,
+  "apk": "https://raw.githubusercontent.com/mohamedtarekamin-glitch/field-app-updates/main/updates/field_app_latest.apk",
+  "mandatory": true
 }
